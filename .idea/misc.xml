@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_close.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_cor.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_email.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_empresa.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_new_card.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_nome.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_telefone.xml" value="0.15" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_add_business_card.xml" value="0.2421875" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/vnaso/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/item_business_card.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
